@@ -1,2 +1,2 @@
-Hello, I'm EryX, Haven't started coding YET, so... not much to say still.
+Hello, Haven't started coding YET, so... not much to say still.
 thats it, made my readme.md
